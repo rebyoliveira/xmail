@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/xmail/static/css/main.1c3caaea.chunk.css"
   },
   {
-    "revision": "83260483db5770978dc47525adf9fdf3",
+    "revision": "0cb15dbf3ed7e41f877c3b3785595cac",
     "url": "/xmail/index.html"
   }
 ];
