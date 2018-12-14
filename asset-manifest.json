@@ -1,15 +1,15 @@
 {
-  "main.css": "/rebyoliveira/xmail/static/css/main.1c3caaea.chunk.css",
-  "main.js": "/rebyoliveira/xmail/static/js/main.05f61ffa.chunk.js",
-  "main.js.map": "/rebyoliveira/xmail/static/js/main.05f61ffa.chunk.js.map",
-  "static/js/1.935be95d.chunk.js": "/rebyoliveira/xmail/static/js/1.935be95d.chunk.js",
-  "static/js/1.935be95d.chunk.js.map": "/rebyoliveira/xmail/static/js/1.935be95d.chunk.js.map",
-  "runtime~main.js": "/rebyoliveira/xmail/static/js/runtime~main.07d71a8a.js",
-  "runtime~main.js.map": "/rebyoliveira/xmail/static/js/runtime~main.07d71a8a.js.map",
-  "static/css/main.1c3caaea.chunk.css.map": "/rebyoliveira/xmail/static/css/main.1c3caaea.chunk.css.map",
-  "static/media/avatar.jpg": "/rebyoliveira/xmail/static/media/avatar.b1cccf3d.jpg",
-  "static/media/dolphin.jpg": "/rebyoliveira/xmail/static/media/dolphin.10ea7e5a.jpg",
-  "index.html": "/rebyoliveira/xmail/index.html",
-  "precache-manifest.cf201ed95ffb7b18794b03476679fdf9.js": "/rebyoliveira/xmail/precache-manifest.cf201ed95ffb7b18794b03476679fdf9.js",
-  "service-worker.js": "/rebyoliveira/xmail/service-worker.js"
+  "main.css": "/xmail/static/css/main.1c3caaea.chunk.css",
+  "main.js": "/xmail/static/js/main.8ea61040.chunk.js",
+  "main.js.map": "/xmail/static/js/main.8ea61040.chunk.js.map",
+  "static/js/1.935be95d.chunk.js": "/xmail/static/js/1.935be95d.chunk.js",
+  "static/js/1.935be95d.chunk.js.map": "/xmail/static/js/1.935be95d.chunk.js.map",
+  "runtime~main.js": "/xmail/static/js/runtime~main.e7cfe7df.js",
+  "runtime~main.js.map": "/xmail/static/js/runtime~main.e7cfe7df.js.map",
+  "static/css/main.1c3caaea.chunk.css.map": "/xmail/static/css/main.1c3caaea.chunk.css.map",
+  "static/media/avatar.jpg": "/xmail/static/media/avatar.b1cccf3d.jpg",
+  "static/media/dolphin.jpg": "/xmail/static/media/dolphin.10ea7e5a.jpg",
+  "index.html": "/xmail/index.html",
+  "precache-manifest.ffbbf5d612e7b2e70252fbb6939445ff.js": "/xmail/precache-manifest.ffbbf5d612e7b2e70252fbb6939445ff.js",
+  "service-worker.js": "/xmail/service-worker.js"
 }

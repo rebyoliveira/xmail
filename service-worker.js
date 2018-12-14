@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rebyoliveira/xmail/precache-manifest.cf201ed95ffb7b18794b03476679fdf9.js"
+  "/xmail/precache-manifest.ffbbf5d612e7b2e70252fbb6939445ff.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rebyoliveira/xmail/index.html", {
+workbox.routing.registerNavigationRoute("/xmail/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
