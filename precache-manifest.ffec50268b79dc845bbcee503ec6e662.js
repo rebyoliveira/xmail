@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/xmail/static/js/runtime~main.e7cfe7df.js"
   },
   {
-    "revision": "8ea610408330f7a172aa",
-    "url": "/xmail/static/js/main.8ea61040.chunk.js"
+    "revision": "d9a6720d34ca75cb726a",
+    "url": "/xmail/static/js/main.d9a6720d.chunk.js"
   },
   {
-    "revision": "935be95d9685ceedd6ca",
-    "url": "/xmail/static/js/1.935be95d.chunk.js"
+    "revision": "231c80c82489c51422d9",
+    "url": "/xmail/static/js/1.231c80c8.chunk.js"
   },
   {
-    "revision": "8ea610408330f7a172aa",
-    "url": "/xmail/static/css/main.1c3caaea.chunk.css"
+    "revision": "d9a6720d34ca75cb726a",
+    "url": "/xmail/static/css/main.3fe9b61b.chunk.css"
   },
   {
-    "revision": "0cb15dbf3ed7e41f877c3b3785595cac",
+    "revision": "0a2419519bc124bc4b469331107a6601",
     "url": "/xmail/index.html"
   }
 ];

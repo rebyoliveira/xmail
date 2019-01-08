@@ -1,15 +1,15 @@
 {
-  "main.css": "/xmail/static/css/main.1c3caaea.chunk.css",
-  "main.js": "/xmail/static/js/main.8ea61040.chunk.js",
-  "main.js.map": "/xmail/static/js/main.8ea61040.chunk.js.map",
-  "static/js/1.935be95d.chunk.js": "/xmail/static/js/1.935be95d.chunk.js",
-  "static/js/1.935be95d.chunk.js.map": "/xmail/static/js/1.935be95d.chunk.js.map",
+  "main.css": "/xmail/static/css/main.3fe9b61b.chunk.css",
+  "main.js": "/xmail/static/js/main.d9a6720d.chunk.js",
+  "main.js.map": "/xmail/static/js/main.d9a6720d.chunk.js.map",
+  "static/js/1.231c80c8.chunk.js": "/xmail/static/js/1.231c80c8.chunk.js",
+  "static/js/1.231c80c8.chunk.js.map": "/xmail/static/js/1.231c80c8.chunk.js.map",
   "runtime~main.js": "/xmail/static/js/runtime~main.e7cfe7df.js",
   "runtime~main.js.map": "/xmail/static/js/runtime~main.e7cfe7df.js.map",
-  "static/css/main.1c3caaea.chunk.css.map": "/xmail/static/css/main.1c3caaea.chunk.css.map",
+  "static/css/main.3fe9b61b.chunk.css.map": "/xmail/static/css/main.3fe9b61b.chunk.css.map",
   "static/media/avatar.jpg": "/xmail/static/media/avatar.b1cccf3d.jpg",
   "static/media/dolphin.jpg": "/xmail/static/media/dolphin.10ea7e5a.jpg",
   "index.html": "/xmail/index.html",
-  "precache-manifest.52b17cdc4ae72cca8fe9cac11e6d3e2a.js": "/xmail/precache-manifest.52b17cdc4ae72cca8fe9cac11e6d3e2a.js",
+  "precache-manifest.ffec50268b79dc845bbcee503ec6e662.js": "/xmail/precache-manifest.ffec50268b79dc845bbcee503ec6e662.js",
   "service-worker.js": "/xmail/service-worker.js"
 }
