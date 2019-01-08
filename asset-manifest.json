@@ -1,7 +1,7 @@
 {
   "main.css": "/xmail/static/css/main.3fe9b61b.chunk.css",
-  "main.js": "/xmail/static/js/main.d9a6720d.chunk.js",
-  "main.js.map": "/xmail/static/js/main.d9a6720d.chunk.js.map",
+  "main.js": "/xmail/static/js/main.901dbe87.chunk.js",
+  "main.js.map": "/xmail/static/js/main.901dbe87.chunk.js.map",
   "static/js/1.231c80c8.chunk.js": "/xmail/static/js/1.231c80c8.chunk.js",
   "static/js/1.231c80c8.chunk.js.map": "/xmail/static/js/1.231c80c8.chunk.js.map",
   "runtime~main.js": "/xmail/static/js/runtime~main.e7cfe7df.js",
@@ -10,6 +10,6 @@
   "static/media/avatar.jpg": "/xmail/static/media/avatar.b1cccf3d.jpg",
   "static/media/dolphin.jpg": "/xmail/static/media/dolphin.10ea7e5a.jpg",
   "index.html": "/xmail/index.html",
-  "precache-manifest.ffec50268b79dc845bbcee503ec6e662.js": "/xmail/precache-manifest.ffec50268b79dc845bbcee503ec6e662.js",
+  "precache-manifest.63222084d5e2f7b27eb337551bf43609.js": "/xmail/precache-manifest.63222084d5e2f7b27eb337551bf43609.js",
   "service-worker.js": "/xmail/service-worker.js"
 }
